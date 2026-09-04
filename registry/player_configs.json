@@ -2633,6 +2633,22 @@
         "319fe431"
       ]
     },
+    "259c7f44": {
+      "sig": "WQ(14,8942,INPUT)",
+      "nClass": "ty",
+      "sts": 20698,
+      "aliases": [
+        "c01ca9bc"
+      ]
+    },
+    "38e8e189": {
+      "sig": "jg(7,2166,INPUT)",
+      "nClass": "FB",
+      "sts": 20699,
+      "aliases": [
+        "d88e2876"
+      ]
+    },
     "3e7a0d91": {
       "sig": "mp(7,2166,INPUT)",
       "nClass": "Ou",
