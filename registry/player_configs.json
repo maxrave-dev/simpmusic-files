@@ -2680,6 +2680,14 @@
       "aliases": [
         "1ba7d311"
       ]
+    },
+    "b93b66db": {
+      "sig": "QV(8,6565,INPUT)",
+      "nClass": "M7",
+      "sts": 20700,
+      "aliases": [
+        "488ab3ed"
+      ]
     }
   }
 }
