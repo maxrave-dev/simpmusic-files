@@ -2809,6 +2809,14 @@
         "f213006a"
       ]
     },
+    "609426be": {
+      "sig": "Vp(3,7009,INPUT)",
+      "nClass": "MV",
+      "sts": 20712,
+      "aliases": [
+        "9d30dfd1"
+      ]
+    },
     "6b77ebca": {
       "sig": "DQ(3,7009,INPUT)",
       "nClass": "dV",
