@@ -2888,6 +2888,14 @@
       "aliases": [
         "c88074fc"
       ]
+    },
+    "aacb0e70": {
+      "sig": "OU(1,5029,INPUT)",
+      "nClass": "TX",
+      "sts": 20714,
+      "aliases": [
+        "eaa8cf5a"
+      ]
     }
   }
 }
