@@ -2873,6 +2873,14 @@
         "11b3b4d2"
       ]
     },
+    "59181ec7": {
+      "sig": "Rf(12,4884,INPUT)",
+      "nClass": "Lm",
+      "sts": 20713,
+      "aliases": [
+        "44540ef7"
+      ]
+    },
     "d7ddd053": {
       "sig": "qy(12,4884,INPUT)",
       "nClass": "eg",
