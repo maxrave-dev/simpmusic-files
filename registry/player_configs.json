@@ -2920,6 +2920,14 @@
       "aliases": [
         "66792dac"
       ]
+    },
+    "48ca10b5": {
+      "sig": "yv(40,3024,INPUT)",
+      "nClass": "X3",
+      "sts": 20717,
+      "aliases": [
+        "1ec7a7df"
+      ]
     }
   }
 }
