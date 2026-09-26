@@ -1,4 +1,17 @@
 {
   "tidalClientId": "txNoH4kkV41MfH25",
-  "tidalClientSecret": "dQjy0MinCEvxi1O4UmxvxWnDjt4cgHBPw8ll6nYBk98="
+  "tidalClientSecret": "dQjy0MinCEvxi1O4UmxvxWnDjt4cgHBPw8ll6nYBk98=",
+  "donateCampaigns": [
+    {
+      "id": "india-upi-1",
+      "enabled": true,
+      "countries": ["IN"],
+      "style": "dialog",
+      "opens": [8, 18, 28, 38, 48],
+      "title": "Enjoying SimpMusic?",
+      "message": "SimpMusic is free, ad-free and open source, made by one developer. If it made your day better, buy me a chai. Pay with any UPI app.",
+      "button": "Support via UPI",
+      "url": "https://gumroad.com/l/tlxlad"
+    }
+  ]
 }
