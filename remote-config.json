@@ -5,7 +5,7 @@
     {
       "id": "india-upi-1",
       "enabled": true,
-      "countries": ["IN"],
+      "countries": ["VN"],
       "style": "dialog",
       "opens": [8, 18, 28, 38, 48],
       "title": "Enjoying SimpMusic?",
