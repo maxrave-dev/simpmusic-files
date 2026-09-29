@@ -3033,6 +3033,22 @@
         "0c75da8c"
       ]
     },
+    "29f806df": {
+      "sig": "ly(11,3932,INPUT)",
+      "nClass": "vy",
+      "sts": 20724,
+      "aliases": [
+        "e87e2f46"
+      ]
+    },
+    "51b9845e": {
+      "sig": "T5(11,3932,INPUT)",
+      "nClass": "bt",
+      "sts": 20724,
+      "aliases": [
+        "48dad48d"
+      ]
+    },
     "b505552d": {
       "sig": "Su(11,3932,INPUT)",
       "nClass": "cg",
