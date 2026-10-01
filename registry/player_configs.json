@@ -3097,6 +3097,14 @@
       "aliases": [
         "32f205c3"
       ]
+    },
+    "92b29aca": {
+      "sig": "jL(5,5551,INPUT)",
+      "nClass": "RJ",
+      "sts": 20726,
+      "aliases": [
+        "6fd22f8d"
+      ]
     }
   }
 }
