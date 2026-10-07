@@ -3140,6 +3140,22 @@
         "b4a68e1c",
         "f2999a12"
       ]
+    },
+    "5203c085": {
+      "sig": "rb(2,3435,INPUT)",
+      "nClass": "bo",
+      "sts": 20732,
+      "aliases": [
+        "df6bd35f"
+      ]
+    },
+    "89b63303": {
+      "sig": "kw(2,3435,INPUT)",
+      "nClass": "LP",
+      "sts": 20732,
+      "aliases": [
+        "46fe8fdc"
+      ]
     }
   }
 }
