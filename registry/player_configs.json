@@ -3156,6 +3156,14 @@
       "aliases": [
         "46fe8fdc"
       ]
+    },
+    "56a32ca6": {
+      "sig": "HD(40,5835,INPUT)",
+      "nClass": "Tb",
+      "sts": 20733,
+      "aliases": [
+        "8973b4ce"
+      ]
     }
   }
 }
