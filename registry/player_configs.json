@@ -3205,6 +3205,14 @@
       "aliases": [
         "6d9f8d21"
       ]
+    },
+    "e550fe71": {
+      "sig": "sx(3,8741,INPUT)",
+      "nClass": "dZ",
+      "sts": 20735,
+      "aliases": [
+        "786c8c02"
+      ]
     }
   }
 }
