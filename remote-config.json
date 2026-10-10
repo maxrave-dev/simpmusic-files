@@ -1,4 +1,14 @@
 {
   "tidalClientId": "txNoH4kkV41MfH25",
-  "tidalClientSecret": "dQjy0MinCEvxi1O4UmxvxWnDjt4cgHBPw8ll6nYBk98="
+  "tidalClientSecret": "dQjy0MinCEvxi1O4UmxvxWnDjt4cgHBPw8ll6nYBk98=",
+  "promos": [
+    {
+      "id": "receipt",
+      "image": {
+        "en": "https://raw.githubusercontent.com/maxrave-dev/simpmusic-files/refs/heads/main/promos/receipt-v1-en.jpg"
+      },
+      "link": "simpmusic://analytics",
+      "minVersion": "2.3.0"
+    }
+  ]
 }
