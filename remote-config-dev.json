@@ -4,7 +4,7 @@
   "promos": [
     {
       "image": {
-        "en": "https://raw.githubusercontent.com/maxrave-dev/SimpMusic/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg"
+        "en": "https://raw.githubusercontent.com/maxrave-dev/simpmusic-files/refs/heads/main/promos/receipt-v1-en.jpg"
       },
       "link": "simpmusic://analytics",
       "minVersion": "2.3.0"
