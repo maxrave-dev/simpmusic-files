@@ -3301,6 +3301,14 @@
         "67288f35"
       ]
     },
+    "55de7e60": {
+      "sig": "zl(17,5122,INPUT)",
+      "nClass": "Gx",
+      "sts": 20745,
+      "aliases": [
+        "fd1e678e"
+      ]
+    },
     "5cfa1694": {
       "sig": "zl(17,5122,INPUT)",
       "nClass": "Gx",
@@ -3315,6 +3323,14 @@
       "sts": 20745,
       "aliases": [
         "14c04b7e"
+      ]
+    },
+    "ec2cfa4d": {
+      "sig": "Gl(17,1452,INPUT)",
+      "nClass": "Fl",
+      "sts": 20746,
+      "aliases": [
+        "09451b48"
       ]
     }
   }
