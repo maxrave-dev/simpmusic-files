@@ -3333,13 +3333,22 @@
         "8322c252"
       ]
     },
+    "96be8342": {
+      "sig": "Ka(17,1452,INPUT)",
+      "nClass": "Ja",
+      "sts": 20746,
+      "aliases": [
+        "a7dc8dd0"
+      ]
+    },
     "ec2cfa4d": {
       "sig": "Gl(17,1452,INPUT)",
       "nClass": "Fl",
       "sts": 20746,
       "aliases": [
         "09451b48",
-        "a2dd1ed3"
+        "a2dd1ed3",
+        "cbcfbf2f"
       ]
     }
   }
