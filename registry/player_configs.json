@@ -3341,6 +3341,14 @@
         "a7dc8dd0"
       ]
     },
+    "ab13dbe5": {
+      "sig": "bi(17,1452,INPUT)",
+      "nClass": "aL",
+      "sts": 20746,
+      "aliases": [
+        "2a1231bc"
+      ]
+    },
     "ec2cfa4d": {
       "sig": "Gl(17,1452,INPUT)",
       "nClass": "Fl",
