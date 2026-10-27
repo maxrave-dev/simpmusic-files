@@ -3382,6 +3382,14 @@
       "aliases": [
         "c5ca6730"
       ]
+    },
+    "6555c59e": {
+      "sig": "Ok(5,6005,INPUT)",
+      "nClass": "Nx",
+      "sts": 20752,
+      "aliases": [
+        "f8b08a10"
+      ]
     }
   }
 }
