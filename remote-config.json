@@ -13,6 +13,18 @@
       ]
     },
     {
+      "id": "kaout-lyrics",
+      "placement": "lyrics",
+      "text": {
+        "en": "Sing it without the singer · kaout",
+        "vi": "Hát bài này không giọng ca sĩ · kaout"
+      },
+      "link": "https://apps.apple.com/app/id6813831686",
+      "requires": [
+        "macos"
+      ]
+    },
+    {
       "id": "wrapped-2026",
       "image": {
         "en": "https://raw.githubusercontent.com/maxrave-dev/simpmusic-files/refs/heads/main/promos/wrapped-2026-v1-en.jpg"
