@@ -3458,6 +3458,22 @@
       "aliases": [
         "7fed3dc1"
       ]
+    },
+    "4a1e575f": {
+      "sig": "bs(8,1901,INPUT)",
+      "nClass": "Wq",
+      "sts": 20758,
+      "aliases": [
+        "62cb45e2"
+      ]
+    },
+    "80cbcf8c": {
+      "sig": "hr(57,7106,INPUT)",
+      "nClass": "Eb",
+      "sts": 20759,
+      "aliases": [
+        "84006ec4"
+      ]
     }
   }
 }
