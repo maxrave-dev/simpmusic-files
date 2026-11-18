@@ -3657,12 +3657,28 @@
         "dc604f01"
       ]
     },
+    "6b3d0364": {
+      "sig": "im(19,3722,INPUT)",
+      "nClass": "hm",
+      "sts": 20774,
+      "aliases": [
+        "93447176"
+      ]
+    },
     "f4280e43": {
       "sig": "Od(19,3722,INPUT)",
       "nClass": "Nd",
       "sts": 20774,
       "aliases": [
         "6610c732"
+      ]
+    },
+    "4c14cf00": {
+      "sig": "md(2,1724,INPUT)",
+      "nClass": "ld",
+      "sts": 20775,
+      "aliases": [
+        "141159e5"
       ]
     }
   }
