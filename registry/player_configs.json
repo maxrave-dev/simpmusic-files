@@ -3705,6 +3705,14 @@
         "39082609"
       ]
     },
+    "6f4caf4e": {
+      "sig": "RD(43,6537,INPUT)",
+      "nClass": "oB",
+      "sts": 20777,
+      "aliases": [
+        "07d83cab"
+      ]
+    },
     "9e0995d2": {
       "sig": "Mc(43,6537,INPUT)",
       "nClass": "Kc",
