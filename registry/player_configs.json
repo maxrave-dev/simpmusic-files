@@ -3720,6 +3720,22 @@
       "aliases": [
         "c55200ef"
       ]
+    },
+    "b485e332": {
+      "sig": "Yo(2,7910,INPUT)",
+      "nClass": "Xo",
+      "sts": 20779,
+      "aliases": [
+        "fe40e19e"
+      ]
+    },
+    "b17b74e6": {
+      "sig": "Ic(18,7746,INPUT)",
+      "nClass": "aq",
+      "sts": 20780,
+      "aliases": [
+        "e2bbe1e1"
+      ]
     }
   }
 }
