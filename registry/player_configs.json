@@ -3729,6 +3729,14 @@
         "fe40e19e"
       ]
     },
+    "9244921b": {
+      "sig": "od(18,7746,INPUT)",
+      "nClass": "nd",
+      "sts": 20780,
+      "aliases": [
+        "de68a001"
+      ]
+    },
     "b17b74e6": {
       "sig": "Ic(18,7746,INPUT)",
       "nClass": "aq",
